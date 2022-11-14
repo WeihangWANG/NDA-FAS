@@ -12,7 +12,7 @@ synthesized negative samples, the learned model can achieve competitive performa
 samples.
  
 <div align=center>
-<img src="image/overflow-new.png" width="400" height="400"/>
+<img src="image/overflow-new.png" width="800" height="400"/>
 
 The overall pipeline of NDA-FAS.
 </div>
